@@ -8,6 +8,8 @@ My name is Jaysurya Ray and I'm a Full Stack Developer.
 
 You can find me on [![LinkedIn][1.2]][1]
 
+[My Resume](https://github.com/Jaysurya85/Certificates/blob/master/Jaysurya%20Ray.pdf)
+
 <!-- Icons -->
 
 [1.2]: https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn "LinkedIn icon without padding"
