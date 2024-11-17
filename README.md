@@ -17,7 +17,7 @@ You can find me on [![LinkedIn][1.2]][1]
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/Jaysurya85/
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysurya85&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=0,051937,171228,190a1a,12040d,000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysurya85&theme=dark&layout=compact&hide_border=true&bg_color=0,051937,171228,190a1a,12040d,000000)
 
 | [AlgoVisualizer](https://algo-visualiser-d4a06.web.app/)|
 |:-------------------------------------:|
