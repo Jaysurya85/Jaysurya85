@@ -22,7 +22,7 @@ You can find me on [![LinkedIn][1.2]][1]
 | [AlgoVisualizer](https://algo-visualiser-d4a06.web.app/)|
 |:-------------------------------------:|
 |![BFS](https://user-images.githubusercontent.com/49756019/200166668-f8daf422-b191-43d0-a221-414cc07574ca.gif)|
-|[My Resume](https://github.com/Jaysurya85/Certificates/blob/master/Jaysurya_Ray_Latex_Resume.pdf)|
+|[My Resume]([https://github.com/Jaysurya85/Certificates/blob/master/Jaysurya_Ray_Latex_Resume.pdf](https://github.com/Jaysurya85/Certificates/blob/master/Jaysurya_Ray_Latex_Resume.pdf))|
 |![Jaysurya Ray](https://user-images.githubusercontent.com/49756019/200167141-c2c5edcf-1d3f-4a0d-8eb8-ba3e36c89438.png)|
 <!-- ![Jaysurya's github stats](https://github-readme-stats.vercel.app/api?username=Jaysurya85&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=0,000000,12040d,190a1a,171228,051937&icon_color=ff5b77&text_color=e5e5e5&card_width=98%) -->
 
