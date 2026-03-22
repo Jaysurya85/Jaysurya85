@@ -36,6 +36,17 @@ I enjoy building scalable backend systems, distributed applications, and clean f
 
 ---
 
+## Competitive Programming
+
+- Codeforces rating: **~1400 (Specialist)**
+- Solved **700+ problems**
+- Focus on algorithms and data structures
+
+Profile  
+https://codeforces.com/profile/jaysuryaray1998
+
+---
+
 ## Systems & Backend Projects
 
 ### P2P File Sharing System
@@ -81,18 +92,6 @@ Live Demo
 https://algo-visualiser-d4a06.web.app
 
 ---
-
-## Competitive Programming
-
-- Codeforces rating: **~1400 (Specialist)**
-- Solved **700+ problems**
-- Focus on algorithms and data structures
-
-Profile  
-https://codeforces.com/profile/jaysuryaray1998
-
----
-
 
 ## Contact
 
