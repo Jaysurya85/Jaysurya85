@@ -14,7 +14,7 @@ I enjoy building scalable backend systems, distributed applications, and clean f
 - Built scalable backend systems and optimized distributed workloads
 - Interested in **systems programming, networking, and distributed systems**
 - Currently exploring **Java, Rust, and backend architecture**
-- Competitive programmer (Codeforces ~1400 rating)
+- Competitive programmer (Codeforces +1600 rating)
 
 ---
 
@@ -38,8 +38,8 @@ I enjoy building scalable backend systems, distributed applications, and clean f
 
 ## Competitive Programming
 
-- Codeforces rating: **~1400 (Specialist)**
-- Solved **700+ problems**
+- Codeforces rating: **+1600 (Expert)**
+- Solved **800+ problems**
 - Focus on algorithms and data structures
 
 Profile  
