@@ -20,7 +20,7 @@ I enjoy building scalable backend systems, distributed applications, and clean f
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysurya85&layout=compact&theme=dark)
+![GitHub Card](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=Jaysurya85&amp;theme=tokyonight&amp;hide_border=true)
 
 ---
 
