@@ -1,95 +1,136 @@
-
 # Hi 👋 I'm Jaysurya Ray
 
-Backend & Systems Engineer | Full-Stack Developer  
-Graduate Student in Computer Science @ University of Florida
+Software Engineer | C++ • Systems Programming • Databases • Distributed Systems  
+MS Computer Science @ University of Florida
 
-I enjoy building scalable backend systems, distributed applications, and clean frontend interfaces that make complex systems easy to interact with.
+I enjoy building systems involving performance, concurrency, networking, databases, and low-level engineering.
 
----
-
-## About Me
-
-- Former **Specialist Programmer at Infosys**
-- Built scalable backend systems and optimized distributed workloads
-- Interested in **systems programming, networking, and distributed systems**
-- Currently exploring **Java, Rust, and backend architecture**
-- Competitive programmer (Codeforces +1600 rating)
+Currently focused on C++ systems work, database internals, and open-source contributions.
 
 ---
 
 ## GitHub Stats
 
-![GitHub Card](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=Jaysurya85&amp;theme=tokyonight&amp;hide_border=true)
+![GitHub Card](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=Jaysurya85&theme=tokyonight&hide_border=true)
+
+---
+
+## About Me
+
+- MS Computer Science student at the **University of Florida**
+- Former **Specialist Programmer at Infosys**
+- Open-source contributor to **ClickHouse**
+- Interested in **C++, systems programming, databases, distributed systems, networking, and performance**
+- Built production backend systems using **Java, Python, Redis, SQL, and Spring Boot**
+- **Codeforces Expert** with 800+ problems solved
+
+---
+
+## Open Source
+
+### ClickHouse
+
+Contributing Modern C++ fixes to ClickHouse database internals.
+
+Recent work includes:
+
+- Fixed SQL identifier formatting for `CUBE`, `ROLLUP`, and `RECURSIVE`, preserving stored queries across formatting and metadata reloads
+- Worked on CAST validation for nested `Array` / `Nullable` types
+- Added regression coverage using ClickHouse's stateless testing framework
+- Investigated issues across SQL parsing, AST formatting, type validation, and query analysis
+
+Merged PR:  
+https://github.com/ClickHouse/ClickHouse/pull/121896
+
+---
+
+## Featured Projects
+
+### SchemaForge
+
+A constraint-aware relational test data generator written in C++.
+
+SchemaForge parses SQL schemas and generates deterministic test datasets while preserving relational constraints.
+
+Features:
+
+- SQL `CREATE TABLE` parsing
+- Primary key / foreign key handling
+- `UNIQUE`, `NOT NULL`, and `CHECK` constraints
+- Dependency graph construction
+- Topological generation order
+- Deterministic seeded generation
+- Streaming output
+- SQLite / PostgreSQL validation
+- Benchmarking and automated testing
+
+Repository:  
+https://github.com/Jaysurya85/schemaforge
+
+---
+
+### P2P File Sharing System
+
+A BitTorrent-style peer-to-peer file sharing system implemented in Java.
+
+![P2P Demo](https://github.com/Jaysurya85/P2PFileSharing/blob/main/demo.gif)
+
+Features:
+
+- TCP socket communication
+- Multithreaded peer management
+- Piece-based file distribution
+- Handshakes and bitfields
+- Request / piece messaging
+- Choke / unchoke protocol
+- Timeout recovery and piece validation
+
+Repository:  
+https://github.com/Jaysurya85/P2PFileSharing
+
+---
+
+### Redis-Inspired Key-Value Store
+
+A systems project written in Rust implementing core Redis-style behavior.
+
+Features:
+
+- Redis Serialization Protocol (RESP)
+- In-memory key-value storage
+- Key expiration
+- Persistence
+- Systems-level Rust implementation
+
+Repository:  
+https://github.com/Jaysurya85/custom_redis_rust
 
 ---
 
 ## Tech Stack
 
-- **Languages**: Java • Python • Rust • C • JavaScript • TypeScript
+**Languages**  
+C++ • Java • Python • Rust • C • SQL
 
-- **Backend**: Spring Boot • Django • REST APIs • Redis • Microservices
+**Systems & Databases**  
+Linux • Multithreading • Networking • TCP/IP • Redis • PostgreSQL • SQLite
 
-- **Frontend**: React • SolidJS • Flutter • HTML • CSS
+**Backend**  
+Spring Boot • REST APIs • Microservices
 
-- **Infrastructure**: Docker • Linux • Git • CI/CD
+**Tooling**  
+CMake • Git • Docker • CI/CD
 
 ---
 
 ## Competitive Programming
 
-- Codeforces rating: **+1600 (Expert)**
-- Solved **800+ problems**
-- Focus on algorithms and data structures
+- **Codeforces Expert**
+- 800+ problems solved
+- Strong focus on algorithms, data structures, and complexity analysis
 
-Profile  
+Profile:  
 https://codeforces.com/profile/jaysuryaray1998
-
----
-
-## Systems & Backend Projects
-
-### P2P File Sharing System
-A BitTorrent-like peer-to-peer file sharing protocol implemented in Java.
-
-Features:
-- TCP socket communication
-- piece-based file distribution
-- choking / unchoking mechanism
-- concurrent peer communication
-
-![P2P Demo](https://github.com/Jaysurya85/P2PFileSharing/blob/main/demo.gif)
-
-Repository  
-https://github.com/Jaysurya85/P2PFileSharing
-
----
-
-### Redis Clone (Rust)
-
-Implemented an in-memory Redis clone with persistence and RESP protocol support.
-
-Features:
-- Redis Serialization Protocol (RESP)
-- in-memory key-value store
-- expiration support
-- systems-level Rust implementation
-
-Repository  
-https://github.com/Jaysurya85/custom_redis_rust
-
----
-
-## Frontend Projects
-
-### Algorithm Visualizer
-
-Interactive platform to visualize graph and sorting algorithms.
-
-![BFS](https://user-images.githubusercontent.com/49756019/200166668-f8daf422-b191-43d0-a221-414cc07574ca.gif)
-
-Live Demo  
-https://algo-visualiser-d4a06.web.app
 
 ---
 
@@ -97,6 +138,9 @@ https://algo-visualiser-d4a06.web.app
 
 LinkedIn  
 https://linkedin.com/in/Jaysurya85
+
+Portfolio  
+https://jaysurya-ray.com
 
 Email  
 jaysuryaray1998@gmail.com
