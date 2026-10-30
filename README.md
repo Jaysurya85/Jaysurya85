@@ -64,6 +64,9 @@ Features:
 - SQLite / PostgreSQL validation
 - Benchmarking and automated testing
 
+Architecture
+![SchemaForge architecture showing the built C++ engine, local website and server, prototype AI planning, and proposed capabilities](https://github.com/Jaysurya85/schemaforge/blob/main/docs/images/schemaforge-architecture.png)
+
 Repository:  
 https://github.com/Jaysurya85/schemaforge
 
